@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "webpack": "^5.96.1"
+  },
+  "name": "top_restaurantpage",
+  "version": "1.0.0",
+  "description": "Repo for the following assignment of The Odin Project : https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page#project-solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
